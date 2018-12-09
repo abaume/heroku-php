@@ -1,0 +1,10 @@
+{
+    "name": "aurore/test-heroku-php",
+    "authors": [
+        {
+            "name": "abaume",
+            "email": "baume.aurore@gmail.com"
+        }
+    ],
+    "require": {}
+}
